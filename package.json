@@ -1,0 +1,25 @@
+{
+  "name": "fader",
+  "version": "1.0.0",
+  "description": "DJ dashboard to manage music progress and requests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavKunapuli/fader.git"
+  },
+  "keywords": [
+    "DJ",
+    "dashboard",
+    "manage",
+    "producer"
+  ],
+  "author": "Pranav Kunapuli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavKunapuli/fader/issues"
+  },
+  "homepage": "https://github.com/pranavKunapuli/fader#readme"
+}
