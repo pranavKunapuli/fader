@@ -1,4 +1,4 @@
 # Sublime Project Extensions
-.sublime-project
-.sublime-workspace
+*.sublime-project
+*.sublime-workspace
 
